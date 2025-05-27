@@ -14,6 +14,15 @@ This is a Java Servlet + MySQL-based web application built during my internship 
 
 ---
 
+## 🧪 Screenshorts
+![Screenshot 2025-05-27 223209](https://github.com/user-attachments/assets/55663576-3e8d-4a17-b269-4a33e4c374e8)
+![Screenshot 2025-05-27 223152](https://github.com/user-attachments/assets/47908fea-4c9d-473e-ba09-b0deda071b59)
+![Screenshot 2025-05-27 223130](https://github.com/user-attachments/assets/e166b5ff-7abe-4c9d-a153-6aced0c12dff)
+![Screenshot 2025-05-27 223113](https://github.com/user-attachments/assets/5c47c31a-982c-49c1-9e49-90f334bd8235)
+![Screenshot 2025-05-27 222954](https://github.com/user-attachments/assets/e63ab66e-91a8-462e-8930-23b333467288)
+
+---
+
 ## 🧠 Technologies Used
 
 - Java (Core + Servlet)
@@ -79,3 +88,4 @@ CREATE TABLE workers (
     type ENUM('Maid', 'Plumber', 'Driver', 'Cook', 'Teacher', 'Electrician') NOT NULL,
     photo LONGBLOB
 );
+
